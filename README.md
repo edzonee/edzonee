@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning advanced JavaScript
 
-🤔 I’m looking for internship week 48-17 (2022/23)
+🤔 I’m looking for an internship week 48-17 (2022/23)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ediz-mehmet-b1240420a/)
 
