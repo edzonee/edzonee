@@ -6,11 +6,11 @@
 
 🔭 I’m currently studying to become a front end developer
 
-🌱 I’m currently learning advanced JavaScript
+🌱 I’m currently learning ReactJS
 
 🤔 I’m looking for an internship week 48-17 (2022/23)
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ediz-mehmet-b1240420a/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edizmehmet/)
 
 ![Programming GIF](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
