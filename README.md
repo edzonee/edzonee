@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to my profile  👋
+# Welcome to my GitHub  👋
 
 #### 🧍 My name is Ediz and I'm 26 years old
 
