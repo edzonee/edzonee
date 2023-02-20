@@ -6,7 +6,7 @@
 
 🔭 I’m currently studying to become a front end developer
 
-🌱 I’m currently learning doing my internship @ nikdev
+🌱 I’m currently doing my internship @ Gokaya
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edizmehmet/)
 
