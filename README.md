@@ -4,9 +4,7 @@
 
 #### 🧍 My name is Ediz and I'm 26 years old
 
-🔭 I’m currently studying to become a front end developer
-
-🌱 I’m currently doing my internship @ Gokaya
+🔭 Junior front end developer
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edizmehmet/)
 
