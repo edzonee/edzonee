@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub  👋
 
-#### 🧍 My name is Ediz and I'm 26 years old
+#### 🧍 My name is Ediz and I'm 27 years old
 
 🔭 Junior front end developer
 
